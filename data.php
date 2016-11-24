@@ -64,6 +64,7 @@ $ranking = array
        array("스내퍼", "snapper/"),
 	   array("서조사", "55", "55_1_seo.jpg"),
 	   array("서조사", "51", "51_1_seo.jpg"),
+	   array("J.HAN", "45", "2840", "45_1_J.HAN_1.jpg"),
    ),
 );
 
