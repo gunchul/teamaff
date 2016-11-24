@@ -11,7 +11,7 @@ $ranking = array
 	   array("루이스", "60", "2304", "60_1_루이스_1.jpg", "60_1_루이스_2.jpg"),
 	   array("서조사", "59.5", "2385", "59.5_1_seo_1.jpg", "59.5_1_seo_2.jpg"),
 	   array("서조사", "59", "2285", "59_1_seo_1.jpg", "59_1_seo_2.jpg"),
-	   array("J.HAN", "59", "2840", "59_1_J.HAN_1.jpg", "59_1_J.HAN_2.jpg"),
+	   array("J.HAN", "59", "2844", "59_1_J.HAN_1.jpg", "59_1_J.HAN_2.jpg"),
 	   array("두리", "58.5", "58.5_1_duri_1.jpg", "58.5_1_duri_2.jpg", "58.5_1_duri_3.jpg"),
 	   array("서조사", "58", "1982", "58_1_seo_1.jpg"),
 	   array("두리", "58", "2837", "58_1_두리_1.jpg", "58_1_두리_2.jpg"),
@@ -64,7 +64,7 @@ $ranking = array
        array("스내퍼", "snapper/"),
 	   array("서조사", "55", "55_1_seo.jpg"),
 	   array("서조사", "51", "51_1_seo.jpg"),
-	   array("J.HAN", "45", "2840", "45_1_J.HAN_1.jpg"),
+	   array("J.HAN", "45", "2844", "45_1_J.HAN_1.jpg"),
    ),
 );
 
