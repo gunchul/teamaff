@@ -46,6 +46,7 @@ $ranking = array
 	   array("숀", "64", "2502"),
 	   array("루이스", "58", "2003", "58_1_루이스_1.jpg", "58_1_루이스_2.jpg"),
 	   array("J.HAN", "52", "52_1_J.HAN_1.jpg"),
+	   array("Amy.K", "45", "2844", "45_1_Amy.K_1.jpg", "45_1_Amy.K_2.jpg"),
    ),
    array(
        array("브림", "bream/"),
