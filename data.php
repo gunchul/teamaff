@@ -55,6 +55,7 @@ $ranking = array
        array("브림", "bream/"),
        array("숀", "42.5", "2495", "42.5_1_숀_1.jpg", "42.5_1_숀_2.jpg"),
 	   array("ALEX", "42", "1886", "42_1_ALEX_1.jpg"),
+	   array("세상끝까지", "41.9", "2885", "41.9_1_세상끝까지_1.jpg", "41.9_1_세상끝까지_2.jpg"),
 	   array("Dexter", "40", "40_1_dexter_1.jpg"),
    ),
    array(
