@@ -87,6 +87,7 @@ $etc = array
 	   array("서조사", "실버드러머 70cm", "seo_1.jpg"),
 	   array("서조사", "랍스터", "seo_2.jpg"),
 	   array("에취렌더", "레드모웡", "에취_1.jpg", "에취_2.jpg"),
+	   array("Dexter", "능성어", "2881", "Dexter_1_능성어_1.jpg", "Dexter_1_능성어_2.jpg"),
     ),
 );
 ?>
