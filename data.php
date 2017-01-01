@@ -22,6 +22,7 @@ $ranking = array
 	   array("Dexter", "56.5", "2777", "56.5_1_dexter_1.jpg", "56.5_1_dexter_2.jpg"),
 	   array("Dexter", "55.2", "2750", "56.5_1_dexter_1.jpg"),
 	   array("서조사", "55", "2761", "55_1_seo_1.jpg"),
+	   array("ALEX", "54", "2887", "54_1_alex_1.jpg", "54_1_alex_2.jpg"),
 	   array("Dexter", "53.5", "2566", "53.5_1_dexter_1.jpg", "53.5_1_dexter_2.jpg"),
    ),
    array(
