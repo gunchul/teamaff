@@ -15,6 +15,7 @@ $ranking = array
 	   array("두리", "58.5", "58.5_1_duri_1.jpg", "58.5_1_duri_2.jpg", "58.5_1_duri_3.jpg"),
 	   array("서조사", "58", "1982", "58_1_seo_1.jpg"),
 	   array("두리", "58", "2837", "58_1_두리_1.jpg", "58_1_두리_2.jpg"),
+	   array("J.HAN", "58", "2893", "58_1_J.HAN_1.jpg", "58_1_J.HAN_2.jpg"),
 	   array("서조사", "57", "2097", "57_2_seo_1.jpg"),
 	   array("서조사", "57", "2769", "57_1_seo_1.jpg", "57_1_seo_2.jpg"),
 	   array("세상끝까지", "57", "2793", "57_1_sesang_1.jpg", "57_1_sesang_2.jpg"),
