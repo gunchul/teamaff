@@ -20,6 +20,7 @@ $ranking = array
 	   array("서조사", "57", "2097", "57_2_seo_1.jpg"),
 	   array("서조사", "57", "2769", "57_1_seo_1.jpg", "57_1_seo_2.jpg"),
 	   array("세상끝까지", "57", "2793", "57_1_sesang_1.jpg", "57_1_sesang_2.jpg"),
+	   array("세상끝까지", "57", "3051", "57_2_sesang_1.jpg", "57_2_sesang_2.jpg"),
 	   array("케도", "56.5", "2606", "56.5_1_케도_1.jpg", "56.5_1_케도_2.jpg"),
 	   array("Dexter", "56.5", "2777", "56.5_1_dexter_1.jpg", "56.5_1_dexter_2.jpg"),
 	   array("Dexter", "55.2", "2750", "56.5_1_dexter_1.jpg"),
@@ -90,6 +91,7 @@ $ranking = array
    ),
    array(
        array("브림", "bream/"),
+       array("KEDO", "44.5", "3230", "44.5_1_kedo_1.jpg"),
        array("서조사", "44", "3034", "44_1_seo_1.jpg", "44_1_seo_2.jpg"),
        array("숀", "42.5", "2495", "42.5_1_숀_1.jpg", "42.5_1_숀_2.jpg"),
 	   array("ALEX", "42", "1886", "42_1_ALEX_1.jpg"),
@@ -108,11 +110,6 @@ $ranking = array
 
 $etc = array
 (
-    array(
-       array("여성", "woman/"),
-       array("제니", "드러머 48.5cm", "2794", "48.5_1_제니_1.jpg", "48.5_1_제니_2.jpg"),
-       array("모레", "드러머 45cm", "45_1_모레_1.jpg", "45_1_모레_2.jpg"),
-    ),
 	array(
        array("기타", "etc/"),
 	   array("ALEX", "상어", "ALEX_1.jpg"),
